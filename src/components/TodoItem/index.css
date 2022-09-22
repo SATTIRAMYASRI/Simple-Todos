@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.li-container {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 10px;
+  justify-content: space-between;
+}
+
+.liEl-heading {
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 500;
+  margin-left: 5px;
+}
+.liEl-button {
+  background-color: transparent;
+  color: #ff0b37;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #ff0b37;
+  border-radius: 5px;
+  width: 70px;
+  height: 30px;
+  margin: 10px;
+}
